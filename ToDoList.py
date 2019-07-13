@@ -19,6 +19,7 @@ while option.lower() == "no":
     optionRepeat = input("is that it now? ")
     option=optionRepeat
 print(toDoList)
+print("Mickey Is a fucking code god")
 
 
     
